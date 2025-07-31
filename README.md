@@ -84,7 +84,7 @@ I love turning ideas into scalable solutions using modern tech stacks. 🚀
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Aditisaurya/snk/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Aditisaurya/Aditisaurya/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
